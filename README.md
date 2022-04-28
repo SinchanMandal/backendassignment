@@ -6,7 +6,7 @@
 # For post/reports
 # Run the command on post man 
 ![intern](https://user-images.githubusercontent.com/77793954/165750411-ad2804e1-679a-4290-b66a-b4120d3ab134.jpg)
-# Response come in VS code as
+# Response comes in VS code as
 ![intern1](https://user-images.githubusercontent.com/77793954/165750216-ca6dac9f-8b38-4ae2-904a-44869a57403c.jpg)
 # Run 
 http://localhost:3000/reports/
