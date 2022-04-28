@@ -8,7 +8,7 @@
 ![intern](https://user-images.githubusercontent.com/77793954/165750411-ad2804e1-679a-4290-b66a-b4120d3ab134.jpg)
 # Response comes in VS code as
 ![intern1](https://user-images.githubusercontent.com/77793954/165750216-ca6dac9f-8b38-4ae2-904a-44869a57403c.jpg)
-# Run 
+# For get/reports Run 
 http://localhost:3000/reports/
 ![get](https://user-images.githubusercontent.com/77793954/165751420-91507fcd-597d-4f59-8640-4c9a03fcfe95.jpg)
 # Run
